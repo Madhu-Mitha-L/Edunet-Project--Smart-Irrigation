@@ -88,7 +88,7 @@ We developed a machine learning model that takes in 20 scaled sensor values (bet
    git clone https://github.com/your-username/smart-irrigation.git
    cd smart-irrigation
 ## How to Run
-**streamlit run app.py**
+```bash  streamlit run app.py ```
 
 ## Model Overview
 
